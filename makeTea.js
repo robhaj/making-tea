@@ -1,4 +1,6 @@
+//constants
 var temp;
+
 
 var makeTea = function() {
 
@@ -7,5 +9,6 @@ var boilWater = function() {
     console.log("Still Boiling");
 
 };
+boilWater();
 } 
 makeTea();
